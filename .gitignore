@@ -1,0 +1,11 @@
+tempfile.txt
+tempfile200.txt
+#*.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
